@@ -1,4 +1,4 @@
-# python-calculator
+# JPEG-TO-PNG-CONVERTER
 
 ## Installation Guide
 
